@@ -1,0 +1,147 @@
+Appetizers:
+1)Chaat Papdi —	            	Fried papdi mixed with onions, tomatoes, mint, tamarind & yogurt	$3.99
+2)Chana Chaat —	                Chickpeas mixed with onions, tomatoes, mint, tamarind & yogurt	$3.99
+3)Vegetable Pakora —	        Mixed vegetables dipped in chickpea batter and deep fried	$3.99
+4)Vegetable Samosa —	        Flaky pastry filled with seasoned potatoes & peas (2 pieces)	$4.49
+5)Paneer Pakora —	        Homemade cheese dipped in chickpea batter and fried	$4.99
+6)Chicken Pakora —	        Chicken dipped in chickpea batter and fried	$5.99
+7)Mixed Vegetable Platter —	Samosa, paneer pakora, vegetables & papadom (2 pieces of each)	$7.99
+8)Mixed Platter —	        Samosa, vegetables, chicken, paneer, shrimp pakora & papadom(2 pieces of each)	$9.99
+9)Garden Salad —          	Romaine lettuce, tomato, cucumber & carrots	$4.99
+
+Accompaniments:
+10)Assorted Condiments —    	Mixed Pickle, Green Chutney, Red Onion Chutney or Tamarind Chutney	$2.00
+11)Raita —	                Yogurt with cucumbers & carrots	$2.99
+12)Mango Chutney —	 	Cut Mango Chutney                                            $2.49
+13)Papadom —	                (4 pieces) Lentil wafer	$2.99
+14)Plain Yogurt —	 	                                                   $2.49
+
+Indian Style Soup:
+15)Lentil Soup —	        Red lentil sauce with fresh cream	$4.99
+16)Tomato Soup —	        Fresh tomato sauce with fresh cream	$4.99
+17)Coconut Soup —	        Coconut milk, light onion sauce with fresh cream	$4.99
+
+Tandoori Delicacies:
+
+18)Tandoori Chicken —	        Spring chicken marinated in yogurt and mild spices	$12.99
+19)Chicken Tikka —	        Boneless chicken marinated in yogurt and mild spices	$13.99
+20)Chicken Malai Kabab —	Boneless chicken breast marinated in yogurt, fresh cream & spices	$14.49
+21)Seekh Kabab —	        (Lamb) marinated minced lamb with onions and herbs	$14.49
+22)Boti Kabab —	                Cubed lamb marinated in yogurt, garlic and ginger	$15.99
+23)Fish Tikka —	                Marinated seasonal fish served with choice of soup	$16.99
+24)Tandoori Shrimp —	        Jumbo shrimp marinated in yogurt, garlic and ginger	$16.99
+25)Paneer Tikka —	        Cubed cheese marinated in yogurt, garlic and ginger	$14.49
+26)Tandoori Mix Grill —      	2 kinds of chicken and lamb & 2 pieces of shrimp	$17.99
+
+Chef Specials:
+27)Gobi Manchurian —	        Batter-fried cauliflower tossed in Manchurian sauce, dry or with gravy	$11.99
+28)Paneer Tikka Masala —	Cubed cheese cooked in a tandoori clay oven with tomato sauce, onions & bell peppers	$14.49
+29)Paneer Butter Masala—	Cubed cheese cooked with onion sauce, tomatoes and bell peppers	$14.49
+30)Paneer Kadhai —		Homemade cheese cooked in onion sauce, tomatoes, bell peppers & ginger	$14.49
+
+Chicken Specialties:
+
+31)Chicken Curry —		Lightly spiced boneless chicken cooked in a mild sauce	$11.99
+32)Chicken Vindaloo —		Boneless chicken sautéed in a hot and sour sauce with potatoes	$13.49
+33)Chicken Mushroom —		Boneless chicken and mushrooms sautéed in a creamy sauce	$13.49
+34)Chicken Dopiaza —		Boneless chicken in a medium sauce with green onions	$13.49
+35)Chicken Sabzi —		Boneless chicken sautéed with mixed vegetables	$13.49
+36)Chicken Green Masala—	Boneless chicken with tomatoes and onions in a hot spinach sauce	$13.49
+37)Chicken Palak—		Boneless chicken with spinach and mild spices	$13.49
+38)Chicken Dhansak —		Boneless chicken in a medium lentil sauce	$13.49
+39)Chicken Shahi Korma —	Boneless chicken in creamy garlic and onion sauce, cashews and raisins	$14.49
+40)Chicken Makhani —		Tender pieces of tandoori boneless chicken sautéed in a butter and cream sauce	$14.49
+41)Chicken Tikka Masala —	Tandoori boneless chicken with tomatoes, onions, garlic and bell peppers	$14.49
+42)Chicken Josh —		Chicken in yogurt and sautéed in tomato and garlic sauce	$14.49
+43)Chicken Garlic —		Chicken sautéed with fresh garlic, tomato and onion	$14.49
+
+Lamb Specialties:
+
+44)Goat Curry (with bone) —	Cubes of goat sautéed with onions in a curry sauce	$14.49
+45)Lamb Vindaloo —		Lightly spiced lamb cooked in a hot & sour sauce with potatoes	$14.49
+46)Lamb Palak —			Tender pieces of lamb with spinach and mild sauce	$14.49
+47)Lamb Sabzi —			Boneless lamb sautéed with mixed vegetables & curry sauce	$14.49
+48)Lamb Dopiaza —		Boneless lamb in a thick sauce, bell peppers, green onions & tomatoes	$14.49
+49)Lamb Dhansak —		Tender pieces of lamb in a medium lentil sauce	$14.49
+50)Lamb Shahi Korma —		Boneless lamb in creamy garlic and onion sauce, cashews and raisins	$14.99
+51)Lamb Green Masala —		Boneless lamb with tomatoes and onions in a hot spinach sauce	$14.99
+52)Lamb Kadahi —		Tender lamb cooked with bell peppers, tomatoes and potatoes & curry sauce	$14.99
+53)Boti-Ka-Masala —		Marinated tender lamb cooked in Tandoori clay oven & sautéed with onions in a tomato sauce	$14.99
+54)Rogan Josh —			Tender lamb cooked with yogurt and sautéed in a tomato and garlic sauce	$14.99
+
+Seafood Specialties:
+
+55)Fish Curry —			Seasonal white fish sautéed with onions in a curry sauce	$14.49
+56)Fish Green Masala—		Seasonal white fish, tomatoes and onions in a hot spinach sauce	$14.49
+57)Fish Masala —		Fish cooked in fried onions, tomatoes, and garlic in medium spiced sauce	$14.49
+58)Fish Vindaloo —		Seasonal white fish cooked in a hot & sour sauce with potatoes	$14.49
+59)Fish Garlic —		Seasonal white fish sautéed with garlic in a fresh tomato sauce	$16.99
+60)Fish Malai —			Seasonal white fish sautéed in coconut milk and fresh cream	$16.99
+61)Shrimp Curry —		Jumbo shrimp sautéed with onions in a curry sauce	$16.99
+62)Shrimp Garlic —		Jumbo shrimp sautéed with fresh garlic in a tomato sauce	$16.99
+63)Shrimp Green Masala —	Jumbo shrimp, tomatoes and onions in a hot spinach sauce	$16.99
+64)Shrimp Malai —		Jumbo shrimp sautéed in coconut milk and fresh cream	$16.99
+65)Shrimp Vindaloo—		Jumbo shrimp cooked in a hot & sour sauce with potatoes	$16.99
+
+Biryani:
+
+66)Vegetable Biryani —		Fresh vegetables in a lightly spiced sauce, with herbs, baked with basmati rice	$12.99
+67)Chicken Biryani —		Boneless chicken in a ligthly spiced sauce, with herbs, baked with basmati rice	$13.99
+68)Lamb Biryani —		Tender lamb in a lightly spiced sauce, with herbs, baked with basmati rice	$16.99
+69)Fish Biryani —		Seasonal white fish sautéed in a lightly spiced sauce, with herbs, baked with basmati rice	$16.99
+70)Shrimp Biryani —		Jumbo shrimp in a lightly spiced sauce, with herbs, baked with basmati rice	$16.99
+71)Goat Biryani—		Goat in a lightly spiced sauce, with herbs, baked with basmati rice	$16.99
+
+Rice Specialties:
+72)Basmati Rice —		White rice	$2.99
+73)Lemon Rice —			Lemon flavored rice with mild spices	$5.99
+74)Tomato Rice —		Rice cooked with tomato and spices	$5.99
+
+Vegetable Specialties:
+75)Mixed Vegetable Curry —	Seasonal vegetables cooked with curry sauce "V"	$10.99
+76)Dal Tadka —			Red lentils cooked with onion & tomatoes "V"	$10.99
+77)Dal Makhani —		Lentils and beans cooked in a creamy butter sauce	$10.99
+78)Alu Matar —			Potatoes and peas in a mildly spiced sauce "V"	$10.99
+79)Chana Masala —		Chickpeas, tomatoes and onions in a rich sauce "V"	$10.99
+80)Palak Alu —			Fresh chopped spinach and potatoes in a creamy sauce "V"	$10.99
+81)Sabnam Curry —		Peas and mushrooms in a creamy curry sauce "V"	$10.99
+82)Baigan Bharta —		Freshly roasted eggplant with tomatoes, onions and green peas "V"	$10.99
+83)Bhindi Masala —		Okra sautéed with onions and tomatoes "V"	$10.99
+84)Alu Gobi —			Specially spiced potatoes, cauliflower, onions and tomatoes "V"	$10.99
+85)Palak Paneer —		Fresh chopped spinach and homemade cheese	$11.99
+86)Matar Paneer —		Distinctively spiced peas and homemade cheese	$11.99
+87)Chana Paneer —		Chickpeas and homemade cheese	$11.99
+88)Malai Kofta —		Minced cheese balls sautéed in cream sauce with raisins and cashews	$11.99
+89)Mixed Vegetable Dhansak —	Seasonal vegetables cooked in a lentil sauce "V"	$11.99
+90)Nav Ratton Korma —		Delicately spiced vegetables cooked in a creamy sauce	$11.99
+91)Vegetable Green Masala —	Mixed vegetables in a hot spinach sauce	$11.99
+92)Paneer Makhani —		Homemade cheese in a creamy butter and tomato sauce	$11.99
+93)Paneer Shahi Korma—		Homemade cheese in a creamy garlic and onion sauce, cashews and raisins	$11.99
+
+Tandoori Breads:
+94)Naan —			Traditional Indian white bread	$2.49
+95)Roti —			Whole wheat bread	$2.49
+96)Paratha —			Whole wheat bread with butter	$2.99
+97)Garlic Naan —		White bread baked with garlic and cilantro	$3.99
+98)Cheese Naan —		White bread stuffed with grated Indian cheese	$3.99
+99)Alu Naan —			White bread baked with seasoned potatoes and peas	$3.99
+100)Onion Kulcha —		White bread stuffed with lightly spiced onion	$3.99
+101)Alu Paratha —		Whole wheat bread stuffed with seasoned potatoes and peas	$3.99
+102)Gobi Paratha—		Whole wheat bread stuffed with cauliflower	$3.99
+103)Keema Naan —		Whole wheat bread stuffed with spicy minced lamb	$4.49
+104)Kashmiri Naan —		White bread stuffed with sweet cherry, raisins and cashews	$4.49
+105)Bread Basket —		Naan, Garlic Naan, Cheese Naan	$7.99
+
+Desserts:
+106)Gulab Jamun —		Deep fried milk confection in a sweet syrup (3 pieces)	$3.99
+107)Kheer —			Rice cooked in flavored milk with nuts and cardamon, served cold	$3.99
+108)Kulfi —			Homemade sweetened milk ice cream, choice of mango or pistachio	$3.99
+109)Mango Pudding —		Vanilla pudding with fresh mango pulp	$3.99
+110)Gajar Halwa —		Grated carrots cooked in milk and butter	$3.99
+
+Beverages:
+111)Mango Lassi —		Cold sweetened mango and yogurt drink	$3.99
+112)Sweet Lassi —		Cold sweetened yogurt drink	$3.99
+113)Mango Juice —	 	Fresh Juice $2.99
+114)Teas —			Chai Tea, Spiced Tea, Iced Tea (1 Refill Free)	$2.99
+115)Soda Pop —			Coke, Diet Coke, Sprite, Lemonade, Root Beer, Fanta (1 Refill Free)	$1.99
